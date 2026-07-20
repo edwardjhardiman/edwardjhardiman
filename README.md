@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Edward Hardiman
 ========================================================================================================================================
 
-Mechanical Engineer (Robotics and Autonomous Systems)
+Mechanical Engineer Student (Robotics and Autonomous Systems)
 -----------------------------------------------------
 
 * 🌍  I'm based in Tempe Az

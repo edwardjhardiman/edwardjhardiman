@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Edward Hardiman
 ========================================================================================================================================
 
-Mechanical Engineer Student (Robotics and Autonomous Systems)
+Mechanical Engineer (Robotics and Autonomous Systems)
 -----------------------------------------------------
 
 * 🌍  I'm based in Tempe Az
 * ✉️  You can contact me at [edwardjhardiman@gmail.com](mailto:edwardjhardiman@gmail.com)
-* 🚀  I'm currently working on [Autonomous Interceptor Drone](http://https://github.com/joeyehardiman/Autonomous-Interceptor-Drone)
+* 🚀  I'm currently working on [Autonomous Interceptor Drone](http://https://github.com/edwardjhardiman/Autonomous-Interceptor-Drone)
 * 🧠  I'm currently learning Autonomous Systems Engineering
 * 👥  I'm looking to collaborate on Guidance, Navigation, and Control Systems
 
@@ -16,4 +16,4 @@ Mechanical Engineer Student (Robotics and Autonomous Systems)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/joeyehardiman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/edward-hardiman-7b778828b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/edwardjhardiman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/edward-hardiman-7b778828b/?enhance=null" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>

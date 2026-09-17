@@ -6,7 +6,7 @@ Mechanical Engineer (Robotics and Autonomous Systems)
 
 * 🌍  I'm based in Tempe Az
 * ✉️  You can contact me at [edwardjhardiman@gmail.com](mailto:edwardjhardiman@gmail.com)
-* 🚀  I'm currently working on [Autonomous Interceptor Drone](http://https://github.com/edwardjhardiman/Autonomous-Interceptor-Drone)
+* 🚀  I'm currently working on [Autonomous Interceptor Drone](https://github.com/edwardjhardiman/Autonomous-Interceptor-Drone)
 * 🧠  I'm currently learning Autonomous Systems Engineering
 * 👥  I'm looking to collaborate on Guidance, Navigation, and Control Systems
 
